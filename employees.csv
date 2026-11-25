@@ -1,0 +1,31 @@
+employee_id,employee_name,role,assigned_region_id
+1,Andrew Mukherjee,Support Agent,1
+2,Stephanie Ramachandran,Account Manager,12
+3,Ramya Das,Billing Specialist,9
+4,Nisha Bose,Billing Specialist,10
+5,Amanda Gupta,Support Agent,10
+6,James Brown,Billing Specialist,3
+7,Aditya Wilson,Support Agent,7
+8,Swati Kumar,Support Agent,7
+9,Ashok Menon,Billing Specialist,9
+10,Sneha Sharma,Customer Success Manager,8
+11,Anjali Rao,Customer Success Manager,4
+12,Ashok Williams,Support Agent,1
+13,Dev Mukherjee,Customer Success Manager,9
+14,Malini Menon,Billing Specialist,1
+15,Anjali Kumar,Support Agent,11
+16,Stephanie Venkatesh,Customer Success Manager,11
+17,Ramesh Kumar,Support Agent,12
+18,Jyothi Smith,Support Agent,1
+19,Sarah Subramaniam,Account Manager,10
+20,Ramya Joshi,Account Manager,4
+21,Manoj Venkatesh,Customer Success Manager,11
+22,Radha Chatterjee,Account Manager,5
+23,Ramya Krishnan,Account Manager,3
+24,Michael Menon,Account Manager,11
+25,Mahesh Chatterjee,Support Agent,3
+26,Ashok Jones,Account Manager,4
+27,Daniel Sharma,Account Manager,7
+28,Ethan Nair,Account Manager,3
+29,Nisha Brown,Billing Specialist,12
+30,Bharath Kumar,Customer Success Manager,11

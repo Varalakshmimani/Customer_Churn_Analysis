@@ -1,0 +1,457 @@
+survey_id,customer_id,survey_date,score,comments
+1,5,2026-04-02,3,Not what I expected
+2,6,2026-08-04,7,Could be better
+3,7,2026-01-15,5,Needs improvement
+4,9,2025-11-18,1,Very satisfied
+5,12,2026-05-06,9,App is slow sometimes
+6,15,2024-05-05,5,Very satisfied
+7,16,2026-07-03,8,Billing was confusing
+8,19,2026-05-19,9,Love the new features
+9,22,2026-06-08,3,Not what I expected
+10,23,2026-07-03,5,Excellent support
+11,24,2026-04-21,2,Great service
+12,25,2024-12-27,8,Very satisfied
+13,26,2026-07-05,1,Needs improvement
+14,27,2026-07-07,4,Excellent support
+15,28,2025-01-13,8,Great service
+16,31,2025-02-11,8,Excellent support
+17,32,2026-05-06,4,Needs improvement
+18,33,2026-06-11,5,Billing was confusing
+19,34,2026-06-24,5,Would recommend
+20,40,2026-02-13,3,Needs improvement
+21,41,2025-12-25,3,Billing was confusing
+22,43,2023-12-04,7,Needs improvement
+23,44,2025-09-11,5,Could be better
+24,45,2026-06-23,8,App is slow sometimes
+25,50,2026-06-29,3,Could be better
+26,56,2026-01-25,5,Very satisfied
+27,57,2023-12-24,5,Great service
+28,58,2025-09-28,9,Needs improvement
+29,60,2025-11-13,4,Great service
+30,62,2026-07-05,6,Love the new features
+31,63,2026-09-16,4,Love the new features
+32,64,2025-07-01,5,Love the new features
+33,73,2025-03-23,2,Excellent support
+34,74,2026-06-29,6,App is slow sometimes
+35,75,2026-09-15,3,Love the new features
+36,77,2026-01-01,6,Excellent support
+37,79,2024-02-04,4,Would recommend
+38,82,2025-12-23,7,Love the new features
+39,83,2024-11-26,5,Would recommend
+40,86,2023-12-28,5,Love the new features
+41,88,2026-05-31,8,Great service
+42,91,2024-03-30,10,Could be better
+43,94,2026-04-29,1,App is slow sometimes
+44,97,2024-11-04,2,Love the new features
+45,101,2023-09-01,10,Billing was confusing
+46,102,2025-03-08,4,Could be better
+47,103,2024-07-12,4,App is slow sometimes
+48,104,2025-01-25,10,Needs improvement
+49,105,2026-03-02,10,Love the new features
+50,107,2025-04-25,9,Very satisfied
+51,114,2026-01-23,10,Billing was confusing
+52,115,2026-08-27,6,Love the new features
+53,116,2026-08-20,5,Needs improvement
+54,117,2025-02-26,5,Could be better
+55,118,2026-09-05,8,Love the new features
+56,121,2026-04-05,10,App is slow sometimes
+57,124,2026-08-23,5,Not what I expected
+58,125,2026-09-14,8,App is slow sometimes
+59,130,2026-06-12,2,Love the new features
+60,133,2024-08-04,5,Billing was confusing
+61,135,2026-08-21,9,Needs improvement
+62,136,2023-12-10,8,Would recommend
+63,137,2026-05-14,2,Not what I expected
+64,138,2026-08-26,2,Very satisfied
+65,139,2026-08-09,10,Could be better
+66,144,2026-02-02,10,Billing was confusing
+67,145,2025-10-11,1,Excellent support
+68,146,2026-03-07,2,Not what I expected
+69,151,2025-12-12,2,Billing was confusing
+70,152,2024-01-03,7,Excellent support
+71,153,2025-02-27,8,Great service
+72,154,2026-08-28,2,Very satisfied
+73,156,2025-11-25,9,Needs improvement
+74,158,2024-10-25,2,Needs improvement
+75,159,2025-09-23,5,Could be better
+76,162,2026-07-06,5,Not what I expected
+77,164,2025-06-29,1,Very satisfied
+78,166,2026-07-01,10,Billing was confusing
+79,168,2026-07-22,4,App is slow sometimes
+80,169,2026-04-03,2,Would recommend
+81,170,2026-05-04,8,Great service
+82,171,2026-08-06,3,Not what I expected
+83,172,2023-09-30,8,Needs improvement
+84,173,2026-09-15,1,Love the new features
+85,174,2025-10-09,9,Needs improvement
+86,185,2026-02-08,9,Excellent support
+87,186,2026-05-25,3,Very satisfied
+88,187,2025-01-15,10,Great service
+89,188,2026-08-25,4,Great service
+90,190,2026-06-26,3,App is slow sometimes
+91,191,2026-09-08,5,Needs improvement
+92,192,2024-12-25,2,Would recommend
+93,195,2026-04-10,6,Could be better
+94,197,2026-03-05,10,Excellent support
+95,199,2026-07-21,5,Billing was confusing
+96,202,2026-09-10,7,Love the new features
+97,203,2026-03-03,7,Not what I expected
+98,204,2026-01-07,4,App is slow sometimes
+99,205,2024-11-15,1,Love the new features
+100,213,2024-10-05,3,Not what I expected
+101,215,2025-09-19,4,Great service
+102,216,2023-10-30,7,Not what I expected
+103,218,2023-10-07,7,Needs improvement
+104,222,2026-01-04,2,Billing was confusing
+105,225,2026-09-07,3,Needs improvement
+106,228,2025-02-02,9,Needs improvement
+107,232,2026-08-17,9,Billing was confusing
+108,233,2026-09-10,7,Could be better
+109,235,2026-05-13,7,Excellent support
+110,236,2026-01-31,6,Love the new features
+111,237,2024-11-24,7,Love the new features
+112,238,2024-05-08,9,Needs improvement
+113,240,2026-09-05,3,Very satisfied
+114,241,2025-01-09,1,Very satisfied
+115,242,2025-12-20,4,Not what I expected
+116,246,2025-11-28,1,Would recommend
+117,247,2026-07-16,4,Great service
+118,249,2024-10-28,4,App is slow sometimes
+119,254,2026-07-06,8,Billing was confusing
+120,256,2024-07-22,1,Very satisfied
+121,260,2023-07-07,3,Could be better
+122,261,2025-03-24,8,Excellent support
+123,262,2025-10-01,8,Great service
+124,265,2024-11-13,8,Not what I expected
+125,268,2024-07-26,4,Would recommend
+126,269,2025-09-02,7,Love the new features
+127,273,2026-07-20,7,Needs improvement
+128,274,2026-07-29,9,Great service
+129,276,2026-08-26,4,Needs improvement
+130,281,2024-02-25,7,Excellent support
+131,283,2026-03-09,8,Could be better
+132,287,2026-09-11,6,Could be better
+133,290,2026-08-17,10,Excellent support
+134,292,2026-06-13,10,Very satisfied
+135,294,2025-11-10,10,Would recommend
+136,297,2026-07-12,9,Needs improvement
+137,299,2026-08-01,2,Great service
+138,306,2026-07-24,3,Billing was confusing
+139,307,2026-09-04,8,Needs improvement
+140,309,2025-12-31,5,Could be better
+141,310,2026-03-13,9,Excellent support
+142,312,2026-04-26,3,Needs improvement
+143,314,2026-07-22,10,Could be better
+144,320,2025-06-23,10,Would recommend
+145,322,2026-08-19,1,Could be better
+146,323,2026-05-05,2,Could be better
+147,324,2026-08-13,4,Billing was confusing
+148,327,2026-02-13,4,Could be better
+149,328,2025-06-16,3,Very satisfied
+150,329,2025-12-19,6,Love the new features
+151,330,2025-09-03,1,Very satisfied
+152,331,2026-09-08,9,Excellent support
+153,340,2026-01-13,8,Would recommend
+154,341,2025-12-20,3,Love the new features
+155,342,2025-07-15,1,Very satisfied
+156,347,2026-07-23,2,Could be better
+157,348,2026-08-01,1,Very satisfied
+158,349,2024-11-03,10,Needs improvement
+159,350,2026-05-03,6,Could be better
+160,354,2024-12-20,2,Very satisfied
+161,359,2024-06-15,7,App is slow sometimes
+162,360,2023-04-25,10,App is slow sometimes
+163,365,2026-09-15,2,Great service
+164,367,2026-05-03,1,Billing was confusing
+165,368,2026-08-21,1,Would recommend
+166,372,2025-07-29,3,Needs improvement
+167,373,2026-01-16,9,Excellent support
+168,374,2024-09-25,4,App is slow sometimes
+169,376,2026-09-11,3,Could be better
+170,377,2026-09-06,8,Billing was confusing
+171,378,2024-11-28,3,Needs improvement
+172,379,2025-03-18,3,App is slow sometimes
+173,382,2026-03-04,8,Could be better
+174,385,2026-04-08,1,Would recommend
+175,386,2025-04-17,9,Great service
+176,387,2026-02-22,7,Excellent support
+177,388,2024-10-31,5,Excellent support
+178,390,2025-12-20,9,Very satisfied
+179,395,2026-09-13,7,Needs improvement
+180,396,2024-02-15,4,Excellent support
+181,398,2025-09-07,1,Would recommend
+182,401,2025-12-22,9,Needs improvement
+183,402,2024-03-07,7,Not what I expected
+184,403,2024-01-19,9,Not what I expected
+185,405,2024-12-25,2,Needs improvement
+186,406,2025-12-14,4,Needs improvement
+187,407,2025-09-24,10,Would recommend
+188,408,2025-04-21,6,Love the new features
+189,410,2025-02-12,1,Very satisfied
+190,411,2026-05-05,9,App is slow sometimes
+191,412,2026-04-02,5,Not what I expected
+192,414,2025-10-18,10,Could be better
+193,415,2026-06-04,3,Love the new features
+194,416,2024-09-11,9,App is slow sometimes
+195,419,2026-04-03,2,Very satisfied
+196,420,2026-01-19,5,Billing was confusing
+197,423,2026-08-14,1,Billing was confusing
+198,429,2026-05-13,1,Needs improvement
+199,432,2026-08-21,4,Not what I expected
+200,434,2023-11-20,3,App is slow sometimes
+201,435,2026-06-27,4,Not what I expected
+202,438,2026-03-31,2,App is slow sometimes
+203,439,2026-02-22,9,Could be better
+204,442,2025-02-22,1,Great service
+205,443,2026-09-05,10,Billing was confusing
+206,445,2024-10-09,9,Would recommend
+207,446,2026-07-12,1,Great service
+208,447,2026-05-16,9,Excellent support
+209,448,2026-09-15,9,App is slow sometimes
+210,455,2026-04-15,9,Great service
+211,457,2025-03-01,7,Very satisfied
+212,458,2026-09-16,5,Very satisfied
+213,461,2026-07-28,7,Needs improvement
+214,473,2024-03-25,3,App is slow sometimes
+215,474,2025-12-30,2,Billing was confusing
+216,475,2026-09-02,5,App is slow sometimes
+217,477,2024-09-08,4,Excellent support
+218,478,2025-02-26,10,Would recommend
+219,479,2026-05-08,10,Would recommend
+220,483,2024-10-19,4,Billing was confusing
+221,485,2025-03-22,5,Very satisfied
+222,487,2023-10-07,1,Would recommend
+223,488,2024-11-29,1,Not what I expected
+224,489,2026-05-09,2,Great service
+225,491,2025-11-02,10,Would recommend
+226,493,2025-02-01,7,Excellent support
+227,497,2026-06-09,1,Needs improvement
+228,498,2026-07-25,5,App is slow sometimes
+229,500,2025-02-12,9,Needs improvement
+230,504,2024-03-31,7,Needs improvement
+231,508,2026-04-14,9,Great service
+232,513,2024-07-11,7,App is slow sometimes
+233,514,2026-04-14,3,Excellent support
+234,515,2026-01-01,9,Needs improvement
+235,520,2025-07-27,1,Very satisfied
+236,521,2026-09-16,4,Very satisfied
+237,524,2026-01-09,5,Very satisfied
+238,527,2025-05-18,7,App is slow sometimes
+239,530,2025-02-10,9,Very satisfied
+240,531,2025-01-25,4,Great service
+241,540,2026-02-08,9,Very satisfied
+242,544,2023-11-12,10,Not what I expected
+243,548,2025-09-01,2,Very satisfied
+244,549,2025-06-14,1,Very satisfied
+245,553,2026-08-17,4,Excellent support
+246,554,2026-02-07,4,Great service
+247,555,2026-09-16,6,App is slow sometimes
+248,558,2026-09-11,5,Would recommend
+249,559,2025-06-28,5,App is slow sometimes
+250,562,2025-08-05,9,Billing was confusing
+251,565,2026-05-18,4,Love the new features
+252,566,2026-08-16,9,App is slow sometimes
+253,569,2026-09-11,1,Very satisfied
+254,571,2026-03-05,6,Billing was confusing
+255,572,2025-09-04,7,Not what I expected
+256,576,2026-02-08,7,Needs improvement
+257,579,2024-04-19,5,App is slow sometimes
+258,581,2025-02-07,2,Could be better
+259,582,2024-05-22,4,Billing was confusing
+260,583,2026-07-09,1,App is slow sometimes
+261,586,2026-06-20,9,Needs improvement
+262,587,2026-03-07,2,Very satisfied
+263,588,2026-02-22,6,Excellent support
+264,592,2024-09-13,8,App is slow sometimes
+265,594,2026-02-07,1,Needs improvement
+266,595,2026-04-21,3,Not what I expected
+267,597,2026-08-31,1,Needs improvement
+268,600,2025-12-12,10,Love the new features
+269,601,2024-02-16,10,App is slow sometimes
+270,602,2026-04-16,6,Very satisfied
+271,605,2024-08-22,7,Love the new features
+272,607,2026-09-02,9,Not what I expected
+273,612,2026-09-13,4,Could be better
+274,614,2025-04-20,8,Very satisfied
+275,616,2026-09-13,8,Billing was confusing
+276,620,2025-10-11,8,Very satisfied
+277,621,2025-03-12,5,Needs improvement
+278,624,2026-05-15,7,Not what I expected
+279,625,2025-11-15,7,Billing was confusing
+280,626,2025-04-07,5,Not what I expected
+281,627,2026-02-16,1,Love the new features
+282,628,2026-05-12,1,Not what I expected
+283,631,2026-09-09,4,Would recommend
+284,633,2026-07-10,9,Needs improvement
+285,635,2026-08-24,7,Not what I expected
+286,636,2026-03-20,2,Billing was confusing
+287,640,2026-04-10,10,Billing was confusing
+288,641,2026-09-06,6,Could be better
+289,643,2026-08-03,10,Needs improvement
+290,644,2025-07-14,7,App is slow sometimes
+291,646,2024-09-02,10,Billing was confusing
+292,648,2025-08-18,10,Not what I expected
+293,649,2026-09-08,7,Could be better
+294,650,2024-08-11,7,Not what I expected
+295,658,2025-12-05,7,Billing was confusing
+296,660,2025-06-04,7,Needs improvement
+297,662,2026-08-15,4,Great service
+298,663,2025-02-04,8,App is slow sometimes
+299,664,2026-08-31,1,Excellent support
+300,665,2025-03-13,4,Would recommend
+301,667,2026-03-12,8,Very satisfied
+302,670,2026-07-13,8,Great service
+303,678,2026-08-22,9,App is slow sometimes
+304,679,2025-07-14,2,Love the new features
+305,680,2026-08-11,3,Great service
+306,681,2025-06-18,9,Very satisfied
+307,682,2026-06-30,3,Excellent support
+308,684,2026-09-16,7,Could be better
+309,688,2026-07-26,3,Love the new features
+310,689,2026-07-09,8,Great service
+311,690,2026-05-11,4,Would recommend
+312,691,2024-11-23,10,Needs improvement
+313,695,2026-05-17,10,Could be better
+314,696,2026-07-16,7,Could be better
+315,700,2026-08-30,8,Excellent support
+316,701,2025-12-07,4,Not what I expected
+317,703,2026-09-05,1,Billing was confusing
+318,704,2026-05-20,6,Billing was confusing
+319,705,2025-05-20,10,Love the new features
+320,706,2026-03-29,7,App is slow sometimes
+321,709,2026-05-16,10,Billing was confusing
+322,710,2026-01-02,10,Love the new features
+323,711,2026-04-22,1,Needs improvement
+324,713,2024-02-16,1,Could be better
+325,717,2023-08-10,1,Very satisfied
+326,718,2026-09-08,1,Needs improvement
+327,720,2025-11-29,3,Would recommend
+328,721,2025-06-11,4,App is slow sometimes
+329,722,2025-02-15,1,Could be better
+330,723,2026-04-19,5,Love the new features
+331,724,2026-07-01,2,Great service
+332,725,2023-09-01,5,Not what I expected
+333,726,2026-03-11,2,Not what I expected
+334,728,2024-06-10,6,App is slow sometimes
+335,730,2026-06-18,7,Love the new features
+336,733,2026-08-20,10,App is slow sometimes
+337,734,2026-08-18,10,Very satisfied
+338,735,2026-06-23,9,App is slow sometimes
+339,738,2026-08-13,4,Could be better
+340,739,2025-03-08,4,Love the new features
+341,740,2026-04-04,4,Very satisfied
+342,745,2026-08-18,1,Not what I expected
+343,747,2026-04-06,10,Would recommend
+344,748,2024-10-05,10,Needs improvement
+345,751,2026-05-23,5,Great service
+346,754,2024-10-10,7,Love the new features
+347,758,2026-07-18,9,Would recommend
+348,760,2024-07-04,1,Not what I expected
+349,761,2025-10-12,8,Not what I expected
+350,763,2026-02-10,9,Billing was confusing
+351,764,2026-03-15,9,Needs improvement
+352,766,2026-05-07,3,Great service
+353,767,2026-07-09,8,Needs improvement
+354,768,2024-05-31,9,Great service
+355,769,2024-10-08,2,Needs improvement
+356,770,2026-09-07,7,Not what I expected
+357,773,2025-07-24,1,Very satisfied
+358,777,2025-08-09,9,App is slow sometimes
+359,779,2025-01-13,4,Excellent support
+360,783,2026-01-30,3,Could be better
+361,785,2026-08-04,5,Billing was confusing
+362,786,2026-08-17,8,Very satisfied
+363,788,2023-08-12,5,App is slow sometimes
+364,790,2023-07-14,4,Very satisfied
+365,791,2025-06-02,3,Not what I expected
+366,794,2026-06-16,8,Love the new features
+367,797,2026-05-13,6,Needs improvement
+368,799,2026-02-19,6,Would recommend
+369,801,2023-12-11,8,Billing was confusing
+370,802,2025-06-25,1,Not what I expected
+371,805,2025-01-20,2,Very satisfied
+372,806,2024-03-17,1,App is slow sometimes
+373,812,2024-08-24,9,Great service
+374,814,2026-04-27,4,Billing was confusing
+375,815,2024-02-18,6,Needs improvement
+376,821,2024-07-09,7,Would recommend
+377,824,2026-08-30,3,App is slow sometimes
+378,830,2026-05-09,9,Billing was confusing
+379,832,2024-12-03,7,Very satisfied
+380,834,2026-02-03,5,Billing was confusing
+381,837,2026-08-16,7,Could be better
+382,838,2025-07-31,1,Not what I expected
+383,840,2024-06-02,6,Could be better
+384,841,2025-04-18,10,Needs improvement
+385,842,2025-07-19,2,Love the new features
+386,846,2024-04-29,8,Needs improvement
+387,847,2024-11-01,2,Not what I expected
+388,848,2026-08-27,9,Would recommend
+389,849,2026-07-06,5,Needs improvement
+390,853,2026-01-11,10,App is slow sometimes
+391,855,2023-04-27,6,Would recommend
+392,856,2026-05-17,5,Would recommend
+393,864,2025-07-26,1,Needs improvement
+394,874,2026-07-03,5,Great service
+395,875,2026-01-10,3,Not what I expected
+396,877,2026-09-07,6,Excellent support
+397,878,2026-08-26,3,Not what I expected
+398,881,2026-07-30,1,Billing was confusing
+399,883,2026-08-09,9,Could be better
+400,884,2026-02-23,1,Not what I expected
+401,885,2026-09-07,4,Love the new features
+402,888,2026-05-22,3,Billing was confusing
+403,890,2026-07-10,9,Could be better
+404,892,2026-05-06,8,Could be better
+405,894,2026-05-06,4,Very satisfied
+406,902,2025-12-24,2,Very satisfied
+407,904,2025-01-13,2,Could be better
+408,905,2026-04-19,6,Excellent support
+409,906,2026-06-12,9,Great service
+410,907,2026-06-28,5,Could be better
+411,908,2025-12-09,2,Would recommend
+412,909,2026-07-02,1,Could be better
+413,910,2025-05-14,8,Not what I expected
+414,913,2026-09-13,10,App is slow sometimes
+415,918,2026-07-14,4,Billing was confusing
+416,919,2026-02-21,5,Needs improvement
+417,923,2025-07-24,5,Could be better
+418,924,2025-09-09,8,App is slow sometimes
+419,929,2024-09-12,5,Love the new features
+420,930,2026-08-24,6,Great service
+421,931,2025-06-30,10,Excellent support
+422,932,2026-09-04,3,Love the new features
+423,934,2025-11-09,8,App is slow sometimes
+424,935,2026-08-01,7,Would recommend
+425,937,2026-07-12,4,Very satisfied
+426,938,2026-05-15,5,Could be better
+427,939,2024-08-12,6,Could be better
+428,943,2026-04-11,9,Great service
+429,944,2025-11-22,5,Could be better
+430,953,2026-07-09,7,Would recommend
+431,955,2024-12-01,7,Very satisfied
+432,956,2026-06-09,1,Would recommend
+433,958,2025-12-15,5,Needs improvement
+434,961,2026-04-10,5,Billing was confusing
+435,962,2026-07-31,3,Billing was confusing
+436,963,2025-06-14,10,Not what I expected
+437,964,2026-02-27,2,Needs improvement
+438,965,2026-06-17,1,Could be better
+439,969,2026-07-12,6,Not what I expected
+440,971,2025-09-07,8,App is slow sometimes
+441,972,2026-08-31,6,Love the new features
+442,975,2025-09-29,2,Not what I expected
+443,976,2026-09-12,5,Would recommend
+444,978,2026-05-16,6,Very satisfied
+445,979,2024-10-22,7,Could be better
+446,981,2025-05-14,7,Excellent support
+447,983,2024-07-23,3,Could be better
+448,984,2024-12-30,7,Love the new features
+449,985,2025-12-26,2,Great service
+450,986,2025-12-06,5,Great service
+451,988,2024-10-04,3,Billing was confusing
+452,992,2026-03-17,6,Needs improvement
+453,993,2026-09-09,4,Billing was confusing
+454,995,2026-03-16,5,Love the new features
+455,996,2026-01-26,10,Billing was confusing
+456,1000,2025-03-19,3,Very satisfied

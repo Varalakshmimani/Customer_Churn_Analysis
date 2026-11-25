@@ -1,0 +1,7 @@
+plan_id,plan_name,price,billing_cycle_days,features
+1,Trial,0,14,Core features
+2,Basic Monthly,499,30,Core features
+3,Standard Monthly,999,30,Core features
+4,Premium Monthly,1999,30,Core + Premium features + Priority support
+5,Standard Annual,9999,365,Core + Premium features + Priority support
+6,Premium Annual,19999,365,Core + Premium features + Priority support
